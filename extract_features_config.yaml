@@ -1,0 +1,11 @@
+# extract_features_config.yaml
+
+data_h5_dir: output/data_seg_patch
+data_slide_dir: /home/webace/Colon_Data
+slide_ext: .svs
+csv_path: output/data_seg_patch/process_list_autogen.csv
+feat_dir: output/feat_dir
+batch_size: 256
+no_auto_skip: False
+custom_downsample: 1
+target_patch_size: -1

@@ -1,0 +1,11 @@
+source: /home/webace/Colon_Data
+step_size: 256
+patch_size: 256
+patch: True
+seg: True
+stitch: True
+no_auto_skip: True
+save_dir: output/data_seg_patch
+preset: null
+patch_level: 0
+process_list: null

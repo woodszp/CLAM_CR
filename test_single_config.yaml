@@ -1,0 +1,9 @@
+data_root_dir: 'test_model/output/feat_dir'
+splits_dir: null
+model_size: 'small'
+model_type: 'clam_sb'
+drop_out: false
+micro_average: false
+task: 'task_1_tumor_vs_normal'
+csv : test_model/test.csv
+ckpt_path : test_model/best_model.pt

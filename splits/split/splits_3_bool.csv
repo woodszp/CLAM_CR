@@ -1,0 +1,12 @@
+,train,val,test
+Col_PNI2021chall_test_0004.svs,True,False,False
+Col_PNI2021chall_train_0002.svs,True,False,False
+Col_PNI2021chall_test_0003.svs,True,False,False
+Col_PNI2021chall_train_0003.svs,False,True,False
+Col_PNI2021chall_test_0007.svs,False,True,False
+Col_PNI2021chall_train_0012.svs,False,True,False
+Col_PNI2021chall_test_0008.svs,False,True,False
+Col_PNI2021chall_test_0006.svs,False,False,True
+Col_PNI2021chall_test_0001.svs,False,False,True
+Col_PNI2021chall_test_0002.svs,False,False,True
+Col_PNI2021chall_test_0005.svs,False,False,True
